@@ -1,0 +1,6 @@
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataTransferObject\bin\Debug\DataTransferObject.dll
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataTransferObject\bin\Debug\DataTransferObject.pdb
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataTransferObject\obj\Debug\DataTransferObject.dll
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataTransferObject\obj\Debug\DataTransferObject.pdb

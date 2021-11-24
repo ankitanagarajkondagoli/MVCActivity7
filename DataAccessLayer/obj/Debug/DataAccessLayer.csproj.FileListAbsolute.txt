@@ -1,0 +1,9 @@
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\bin\Debug\DataTransferObject.dll
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\bin\Debug\DataTransferObject.pdb
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+W:\LTTS\ASPNET_MVC_Module\Activity7\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
